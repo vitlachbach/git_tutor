@@ -2,4 +2,7 @@ At this time we create a branch named future-plans
 We changed this file.
 # We delete this line. We cont changed this file.
 We add this line.
+<<<<<<< HEAD
 vitlachbach add this line.
+=======
+>>>>>>> 2b1822eb6f7ce85db5c794a188bcc197c8dc6116
