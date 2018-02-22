@@ -2,5 +2,11 @@ At this time we create a branch named future-plans
 We changed this file.
 # We delete this line. We cont changed this file.
 We add this line.
+<<<<<<< HEAD
 LuongTD add this line.
 LuongTD add one more line.
+=======
+vitlachbach add this line.
+LuongTD add this line.
+vitlachbach add this line.
+>>>>>>> 7a4b0025eef6883b4e0b16e7032a1ac2eb9e16b9
